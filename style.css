@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background: #1e1e1e;
+  color: #f0f0f0;
+}
+
+canvas {
+  background: #222;
+  border: 2px solid #555;
+  display: block;
+  margin: 0 auto;
+}
+
+#message {
+  font-size: 1.2em;
+  color: #ff6b6b;
+}
